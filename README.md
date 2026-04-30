@@ -24,7 +24,7 @@ Make sure you have Python installed.
 ### Installation
 1. Clone this repository:
    ```bash
-  https://github.com/nanoadel775-cell/BRCA1-DASHBOARD.git
+   https://github.com/nanoadel775-cell/BRCA1-DASHBOARD.git
    ```
 2. Install the required dependencies:
    ```bash
