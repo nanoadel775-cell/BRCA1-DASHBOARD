@@ -24,8 +24,7 @@ Make sure you have Python installed.
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/nanoadel775-cell/brca1-profiler.git
-   cd brca1-profiler
+  https://github.com/nanoadel775-cell/BRCA1-DASHBOARD.git
    ```
 2. Install the required dependencies:
    ```bash
